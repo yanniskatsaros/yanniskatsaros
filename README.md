@@ -14,10 +14,14 @@ My name is Yannis Katsaros, I'm a data scientist and engineer from Athens, Greec
   </a>
 </div>
 
-<br>
+___
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniskatsaros&show_icons=true&hide=jupyter%20notebook)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanniskatsaros&show_icons=true)
+<a href="https://github.com/yanniskatsaros/yanniskatsaros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanniskatsaros&show_icons=true&hide=jupyter%20notebook" />
+</a>
+<a href="https://github.com/yanniskatsaros/yanniskatsaros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanniskatsaros&show_icons=true" alt="Yanni's GitHub Stats" />
+</a>
 
 ##### Font Awesome Icons License
 
