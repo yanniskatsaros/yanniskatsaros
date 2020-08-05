@@ -14,6 +14,11 @@ My name is Yannis Katsaros, I'm a data scientist and engineer from Athens, Greec
   </a>
 </div>
 
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanniskatsaros&show_icons=true&hide=jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanniskatsaros&show_icons=true)
+
 ##### Font Awesome Icons License
 
 Icons retrieved from [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free) under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode)
