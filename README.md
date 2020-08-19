@@ -4,13 +4,16 @@ My name is Yannis Katsaros, I'm a data scientist and engineer from Athens, Greec
 
 <div align="center">
   <a href="mailto:yannis@katsaros.io">
-    <img width="3%" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/email.svg?sanitize=true">
+    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/email.svg?sanitize=true">
   </a>
   <a href="https://twitter.com/yanniskatsaros">
-    <img width="3%" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/twitter.svg?sanitize=true">
+    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/twitter.svg?sanitize=true">
   </a>
   <a href="https://www.linkedin.com/in/yanniskatsaros">
-    <img width="3%" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/linkedin.svg?sanitize=true">
+    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/linkedin.svg?sanitize=true">
+  </a>
+  <a href="https://gitlab.com/katsaros.yannis-heb">
+    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/gitlab.svg?sanitize=true">
   </a>
 </div>
 
