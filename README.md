@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Yannis Katsaros, I'm a data scientist and engineer from Athens, Greece living in San Antonio, TX. I'm currently working as a Data Scientist at H-E-B and working on a Masters in Data Science from Johns Hopkins University. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
+My name is Yannis Katsaros, I'm a data scientist and engineer from Athens, Greece. I'm currently working as a Data Engineer and Scientist and working on a Masters in Data Science from Johns Hopkins University. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
 
 <div align="center">
   <a href="mailto:yannis@katsaros.io">
