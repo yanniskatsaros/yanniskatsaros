@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Yannis Katsaros, I'm a data scientist and engineer from Athens, Greece. I'm currently working as a Data Engineer and Scientist and working on a Masters in Data Science from Johns Hopkins University. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
+I'm Yannis and I'm originally from Athens, Greece. I'm currently working as a Data Engineer and Data Scientist, and pursuing a Masters in Data Science from Johns Hopkins University. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
 
 <div align="center">
   <a href="mailto:yannis@katsaros.io">
@@ -23,6 +23,7 @@ ___
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=27ae60)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=27ae60)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0078d6&color=27ae60)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=27ae60)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=27ae60)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=27ae60)
@@ -32,9 +33,12 @@ ___
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&color=27ae60)
 ![](https://img.shields.io/badge/Library-Apache_Spark-informational?style=flat&logo=apache-spark&color=27ae60)
 ![](https://img.shields.io/badge/Library-Flask-informational?style=flat&logo=flask&color=27ae60)
+![](https://img.shields.io/badge/Library-FastAPI-informational?style=flat&logo=fastapi&color=27ae60)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=557cab&color=27ae60)
+![](https://img.shields.io/badge/Database-MS_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=cc2927&color=27ae60)
 ![](https://img.shields.io/badge/Database-Teradata-informational?style=flat&logo=teradata&color=27ae60)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=3498db&color=27ae60)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=27ae60)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=27ae60)
 ![](https://img.shields.io/badge/Tools-GitLab_CI-informational?style=flat&logo=gitlab&logoColor=white&color=27ae60)
 ![](https://img.shields.io/badge/Tools-Apache_Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=27ae60)
@@ -48,8 +52,6 @@ ___
 <a href="https://github.com/yanniskatsaros/yanniskatsaros">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanniskatsaros&show_icons=true" alt="Yanni's GitHub Stats" />
 </a>
-
-##### Font Awesome Icons License
 
 Icons retrieved from [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free) under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode)
 
