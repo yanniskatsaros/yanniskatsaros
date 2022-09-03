@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Yannis and I'm originally from Athens, Greece. I'm currently working as a Data Engineer and Data Scientist, and pursuing a Masters in Data Science from Johns Hopkins University. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
+I'm Yannis and I'm originally from Athens, Greece :greece:. Currently, I'm working as a Software Engineer at [Trovata](https://trovata.io) on the Data Platform Engineering team. In the past, I've enjoyed working in a variety of similar roles including Data Engineering and Data Science. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
 
 <div align="center">
   <a href="mailto:yannis@katsaros.io">
@@ -11,9 +11,6 @@ I'm Yannis and I'm originally from Athens, Greece. I'm currently working as a Da
   </a>
   <a href="https://www.linkedin.com/in/yanniskatsaros">
     <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/linkedin.svg?sanitize=true">
-  </a>
-  <a href="https://gitlab.com/yannis.katsaros.arm">
-    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/gitlab.svg?sanitize=true">
   </a>
 </div>
 
@@ -27,6 +24,7 @@ ___
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=27ae60)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=27ae60)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=27ae60)
+![](https://img.shields.io/badge/Code-Ocaml-informational?style=flat&logo=ocaml&color=27ae60)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=27ae60)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=e74c3c&color=27ae60)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=27ae60)
