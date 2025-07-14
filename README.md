@@ -1,6 +1,8 @@
 ### Hey there 👋
 
-I'm Yannis and I'm originally from Athens, Greece :greece:. Currently, I'm working as a Software Engineer at [Trovata](https://trovata.io) on the Data Platform Engineering team. In the past, I've enjoyed working in a variety of similar roles including Data Engineering and Data Science. In my free time, I enjoy working out, traveling with my wife, programming, listening to music/podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email or you can contact me on Twitter or LinkedIn.
+I'm Yannis and I'm originally from Athens, Greece :greece:. Currently, I'm a Senior Software Engineer at [Trovata](https://trovata.io) on the Platform Engineering team. In the past, I've enjoyed working in a variety of similar roles including Data Engineering and Data Science for various industries including oil & gas, finance, and retail. I get excited about building systems that scale and solving hard technical problems. My interests span programming languages, distributed systems, cloud infrastructure, databases, and developer tooling. I thrive in startup environments at the intersection of great engineering and business impact where I can take full ownership of projects spanning product idea, architecture, implementation, and deployment.
+
+In my free time, I enjoy working out, traveling with my family, programming, listening to music & podcasts, reading, and learning. If you'd like to get in touch, please feel free to reach out by email. You can also contact me on X or LinkedIn, but I check both less frequently.
 
 <div align="center">
   <a href="mailto:yannis@katsaros.io">
