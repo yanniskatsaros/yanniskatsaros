@@ -6,15 +6,24 @@ In my free time, I enjoy working out, traveling with my family, programming, lis
 
 <div align="center">
   <a href="mailto:yannis@katsaros.io">
-    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/email.svg?sanitize=true">
+    <img align="center" display="block" src="https://badges.cucumberstudio.com/static/v1?label=email&message=yannis@katsaros.io&color=2c3e50">
   </a>
-  <a href="https://twitter.com/yanniskatsaros">
-    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/twitter.svg?sanitize=true">
+  <a href="https://x.com/yanniskatsaros">
+    <img align="center" display="block" src="https://badges.cucumberstudio.com/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Fx.com%2Fyanniskatsaros">
   </a>
   <a href="https://www.linkedin.com/in/yanniskatsaros">
-    <img width="35px" align="center" display="block" style="padding-left: 30px; padding-right: 30px" src="https://raw.githubusercontent.com/yanniskatsaros/yanniskatsaros/master/assets/linkedin.svg?sanitize=true">
+    <img align="center" display="block" src="https://badges.cucumberstudio.com/static/v1?logo=linkedin&message=LinkedIn&label=&color=0077B5">
   </a>
 </div>
+
+
+<!--
+![](https://badges.cucumberstudio.com/static/v1?label=email&message=yannis@katsaros.io&color=2c3e50)
+
+![](https://badges.cucumberstudio.com/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Fx.com%2Fyanniskatsaros)
+
+![](https://badges.cucumberstudio.com/static/v1?logo=linkedin&message=LinkedIn&label=&color=0077B5)
+-->
 
 ___
 
@@ -52,20 +61,3 @@ ___
 <a href="https://github.com/yanniskatsaros/yanniskatsaros">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yanniskatsaros&show_icons=true" alt="Yanni's GitHub Stats" />
 </a>
-
-Icons retrieved from [Font Awesome Icons](https://fontawesome.com/icons?d=gallery&m=free) under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode)
-
-<!--
-**yanniskatsaros/yanniskatsaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
