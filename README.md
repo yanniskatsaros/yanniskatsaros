@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 I'm Yannis and I'm originally from Athens, Greece :greece:.
-Currently, I'm a Founding Engineer at [Friday Harbor](https://fridayharbor.ai), an AI startup for mortgage origination and underwriting.
+Currently, I'm a Founding Engineer at [Friday Harbor](https://fridayharbor.ai), building AI for mortgage underwriting.
 
 In the past, I've enjoyed working in a variety of similar roles including Software / Platform / Data Engineering, and Data Science and Machine Learning for various industries including fintech, oil & gas, commodities trading, and retail.
 I get excited about building systems that scale and solving hard technical problems. My interests span programming languages, distributed systems, cloud infrastructure, databases, and developer tooling.
